@@ -28,15 +28,14 @@ A Python application that respectfully connects to the global web community to f
 1. **Clone or download the project**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Mayen007/Ubuntu_Requests
    cd Ubuntu_Requests
    ```
 
 2. **Install dependencies**
-
-   ```bash
+```bash
    pip install -r requirements.txt
-   ```
+```
 
 3. **Run the application**
    ```bash
